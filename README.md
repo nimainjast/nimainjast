@@ -85,7 +85,7 @@
 </td>
 <td align="center" width="50%">
 
-<img src="https://images.unsplash.com/photo-1536240478700-b869070f9279?w=400&h=200&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb" width="100%" alt="Streaming Platform">
+<img src="https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?w=400&h=200&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb" width="100%" alt="Video Streaming Platform">
 
 ### 🎬 ShadVOD
 **Streaming Platform**  
