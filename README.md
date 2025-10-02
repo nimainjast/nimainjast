@@ -1,49 +1,4 @@
-# Hi, I'm Nima Keshavarz <img src="https://media.giphy.c---
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 🏢 Beauty CRM
-**Full‑Stack Development**  
-[ziboxcrm.ir](https://ziboxcrm.ir/)
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-200+ APIs • RBAC • JWT/Sanctum
-
-</td>
-<td align="center">
-
-### 🎬 ShadVOD
-**Streaming Platform**  
-[shadmovie.ir](https://shadmovie.ir/)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-
-Watch Party • Real‑time Chat • Multi‑quality
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 📈 GitHub Activity
-
-</div>rR4ia7z/giphy.gif" width="28">
+# Hi, I'm Nima Keshavarz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <div align="center">
 
@@ -51,7 +6,11 @@ Watch Party • Real‑time Chat • Multi‑quality
 
 </div>
 
-![Profile banner](./profile-banner.png)
+<div align="center">
+
+![Dark Coding Banner](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=300&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb&bg=0d1117)
+
+</div>
 
 <div align="center">
 
@@ -79,7 +38,7 @@ Watch Party • Real‑time Chat • Multi‑quality
 
 <div align="center">
 
-### �️ Tech Arsenal
+### 🛠️ Tech Arsenal
 
 </div>
 
@@ -99,26 +58,71 @@ Watch Party • Real‑time Chat • Multi‑quality
 
 </div>
 
-## 🚀 Featured Projects
+---
 
-<div align="left">
+<div align="center">
 
-### 🏢 Beauty CRM (Zibox CRM)
-**Full‑Stack Development** • Admin panel (frontend) + complete backend/API  
-🔗 **Live**: [ziboxcrm.ir](https://ziboxcrm.ir/)  
-⚡ **Tech**: Laravel 12, MySQL, JWT/Sanctum, RBAC, TailwindCSS, Alpine.js  
-🔧 **Features**: 200+ APIs, 100+ migrations, queues/caching, ZarinPal, Kavenegar SMS
-
-### 🎬 ShadVOD / Imamovies
-**Streaming Platform** • Netflix‑like VOD with Watch Party & real‑time chat  
-🔗 **Live**: [shadmovie.ir](https://shadmovie.ir/) • [imamovies.ir](https://imamovies.ir/)  
-⚡ **Tech**: Laravel 11, React, Pusher WebSocket, AWS S3, Bootstrap 5  
-🔧 **Features**: Multi‑quality video, secure URLs, real‑time sync, subscriptions
+### 🚀 Featured Projects
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-## � GitHub Stats
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=200&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb" width="100%" alt="CRM Dashboard">
+
+### 🏢 Beauty CRM
+**Full‑Stack Development**  
+[🔗 ziboxcrm.ir](https://ziboxcrm.ir/)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**200+ APIs • RBAC • JWT/Sanctum**
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://images.unsplash.com/photo-1536240478700-b869070f9279?w=400&h=200&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb" width="100%" alt="Streaming Platform">
+
+### 🎬 ShadVOD
+**Streaming Platform**  
+[🔗 shadmovie.ir](https://shadmovie.ir/)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+
+**Watch Party • Real‑time Chat • Multi‑quality**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💼 Other Projects
+
+</div>
+
+<div align="center">
+
+| 🎯 **Project** | 🛠️ **Stack** | 🔗 **Role** |
+|:---:|:---:|:---:|
+| **Serkan Filter Panel** | Next.js + TailwindCSS | Frontend |
+| **Bugdasht Admin Panel** | React + TailwindCSS | Frontend |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 GitHub Activity
+
+</div>
 
 <div align="center">
 
@@ -142,3 +146,10 @@ Watch Party • Real‑time Chat • Multi‑quality
 
 </div>
 
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=800&h=200&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb" alt="Code Footer">
+
+**"Code is poetry written in logic"** 💻✨
+
+</div>
