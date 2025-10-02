@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%E2%80%91Stack+Developer;React%2FNext.js+%2B+Laravel;Building+Production%E2%80%91Grade+Apps;CRM+%26+Streaming+Platforms;Real%E2%80%91time+%26+Secure+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Developer;React%2FNext.js+%2B+Laravel;Building+Production%E2%80%91Grade+Apps;Real%E2%80%91time+%26+Secure+Solutions;TypeScript+%26+PHP+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,11 +30,11 @@
 
 </div>
 
-- 🔭 **Current**: Full‑Stack Developer at Nahira (Aban 1404 – Present)
-- 🧩 **Recent**: Beauty CRM (Zibox CRM) — Admin panel (frontend) + backend/API
-- 🎬 **Streaming**: ShadVOD / Imamovies — Full‑stack streaming (Watch Party, realtime chat)
-- 💬 **Ask me about**: React, Next.js (SSR/SSG), TypeScript, Laravel, REST APIs, JWT/Sanctum, WebSocket
-- ⚡ **Fun fact**: I love building real‑time features and scalable architectures
+- 🔭 **Current**: Developer at Nahira (Aban 1404 – Present)
+- 🧩 **Recent**: Admin panel development + backend/API architecture
+- 🎬 **Streaming**: Full‑stack streaming platform (Watch Party, realtime chat)
+- 💬 **Ask me about**: **React, Next.js (SSR/SSG), TypeScript, Laravel, REST APIs, JWT/Sanctum, WebSocket**
+- ⚡ **Fun fact**: I love building **real‑time features** and **scalable architectures**
 
 <div align="center">
 
@@ -44,17 +44,17 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)**
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)**
 
 </div>
 
@@ -72,8 +72,8 @@
 
 <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=200&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb" width="100%" alt="CRM Dashboard">
 
-### 🏢 Beauty CRM
-**Full‑Stack Development**  
+### 🏢 CRM Platform
+**Development**  
 [🔗 ziboxcrm.ir](https://ziboxcrm.ir/)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -87,8 +87,8 @@
 
 <img src="https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?w=400&h=200&fit=crop&crop=entropy&auto=format&fm=webp&q=80&cs=tinysrgb" width="100%" alt="Video Streaming Platform">
 
-### 🎬 ShadVOD
-**Streaming Platform**  
+### 🎬 Streaming Platform
+**VOD Platform**  
 [🔗 shadmovie.ir](https://shadmovie.ir/)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -111,8 +111,8 @@
 
 | 🎯 **Project** | 🛠️ **Stack** | 🔗 **Role** |
 |:---:|:---:|:---:|
-| **Serkan Filter Panel** | Next.js + TailwindCSS | Frontend |
-| **Bugdasht Admin Panel** | React + TailwindCSS | Frontend |
+| **Filter Panel** | Next.js + TailwindCSS | Frontend |
+| **Admin Panel** | React + TailwindCSS | Frontend |
 
 </div>
 
