@@ -1,82 +1,144 @@
-# Hi, I'm Nima Keshavarz 👋
+# Hi, I'm Nima Keshavarz <img src="https://media.giphy.c---
 
-Full‑Stack Developer (React/Next.js + Laravel) — I build production‑grade CRMs and streaming platforms with realtime features, secure auth, and great UX.
+<div align="center">
 
-![Profile banner](./profile-banner.png)
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<ADD-LINKEDIN-HANDLE>)
-[![Email](https://img.shields.io/badge/Email-nimainjasta%40gmail.com-red)](mailto:nimainjasta@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f6feb)](<ADD-PORTFOLIO-LINK>)
+### 🚀 Featured Projects
 
 </div>
 
-- 🔭 Current: Full‑Stack Developer at Nahira (Aban 1404 – Present)
-- 🧩 Recent: Beauty CRM (Zibox CRM) — Admin panel (frontend) + backend/API
-- 🎬 ShadVOD / Imamovies — Full‑stack streaming (Watch Party, realtime chat)
-- 💬 Ask me about: React, Next.js (SSR/SSG), TypeScript, Laravel, REST APIs, JWT/Sanctum, WebSocket
+<table align="center">
+<tr>
+<td align="center">
 
-## 🔧 Tech Stack
+### 🏢 Beauty CRM
+**Full‑Stack Development**  
+[ziboxcrm.ir](https://ziboxcrm.ir/)
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux%20Toolkit-593D88?logo=redux&logoColor=white)
-![Saga](https://img.shields.io/badge/Redux--Saga-999999)
-![RTK Query](https://img.shields.io/badge/RTK%20Query-593D88)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?logo=pusher&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 🧪 Case Studies (private code, public results)
+200+ APIs • RBAC • JWT/Sanctum
 
-Even when repos are private, I share outcomes, architecture, and screenshots.
+</td>
+<td align="center">
 
-### Beauty CRM (Zibox CRM)
-- Scope: Admin panel (frontend) + entire backend/API.  
-  Live: https://ziboxcrm.ir/
-- Highlights: JWT/Sanctum, RBAC, 200+ APIs, 100+ migrations, queues/caching, ZarinPal, Kavenegar.
-- Screenshots: [Gallery](./cases/beauty-crm/README.md) (add images to `cases/beauty-crm/`)
+### 🎬 ShadVOD
+**Streaming Platform**  
+[shadmovie.ir](https://shadmovie.ir/)
 
-### ShadVOD / Imamovies — VOD Platform
-- Scope: Full‑stack (frontend + backend).  
-  Live: https://shadmovie.ir/ • https://imamovies.ir/
-- Highlights: Multi‑quality video, secure expiring URLs, Watch Party + realtime chat (Pusher), subscriptions.
-- Screenshots: [Gallery](./cases/shadvod/README.md) (add images to `cases/shadvod/`)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
-### Serkan — Filter Panel (React)
-- Scope: MUI filter UI, ACL/route guards, Redux‑Saga for async flows; led code reviews and pairing.
-- Screenshots: [Gallery](./cases/serkan/README.md)
+Watch Party • Real‑time Chat • Multi‑quality
 
-### Bugdasht — Admin Panel (Next.js)
-- Scope: SSR + lazy loading, RTK Query, WebSocket realtime updates, Husky/ESLint/Prettier, Docker.
-- Screenshots: [Gallery](./cases/bugdasht/README.md)
+</td>
+</tr>
+</table>
 
-> Tip: Create `cases/<project>/README.md` with 3–5 screenshots, a short problem→solution→result summary, and any metrics (e.g., −25% TTFB, +40% Lighthouse Perf).
+---
 
-## 📌 What to pin
-1) portfolio (showcase/cases)  2) beauty-crm (demo or docs)  3) shadvod-platform (docs)  4) imamovies-frontend (or combined)  5) bugdasht-admin  6) serkan-filter-panel
+<div align="center">
 
-## 🗂 Repo checklist (for each project)
-- README: overview, features, tech stack, screenshots, quickstart
-- LICENSE: MIT (or appropriate)
-- .editorconfig + Prettier/ESLint configs
-- Husky pre-commit: lint/test  
-- CI (optional): GitHub Actions to run tests/lint on push/PR
-- Topics/tags: `fullstack` `react` `nextjs` `laravel` `vod` `realtime` `crm`
+### 📈 GitHub Activity
 
-## 📈 (Optional) Profile widgets
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimainjast&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimainjast&layout=compact)
-```
+</div>rR4ia7z/giphy.gif" width="28">
 
-## 🤝 Connect
-- LinkedIn: <https://www.linkedin.com/in/<your-handle>>
-- Email: nimainjasta@gmail.com
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%E2%80%91Stack+Developer;React%2FNext.js+%2B+Laravel;Building+Production%E2%80%91Grade+Apps;CRM+%26+Streaming+Platforms;Real%E2%80%91time+%26+Secure+Solutions)](https://git.io/typing-svg)
+
+</div>
+
+![Profile banner](./profile-banner.png)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/<ADD-LINKEDIN-HANDLE>)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:nimainjasta@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](<ADD-PORTFOLIO-LINK>)
+
+![](https://komarev.com/ghpvc/?username=nimainjast&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 What I'm up to
+
+</div>
+
+- 🔭 **Current**: Full‑Stack Developer at Nahira (Aban 1404 – Present)
+- 🧩 **Recent**: Beauty CRM (Zibox CRM) — Admin panel (frontend) + backend/API
+- 🎬 **Streaming**: ShadVOD / Imamovies — Full‑stack streaming (Watch Party, realtime chat)
+- 💬 **Ask me about**: React, Next.js (SSR/SSG), TypeScript, Laravel, REST APIs, JWT/Sanctum, WebSocket
+- ⚡ **Fun fact**: I love building real‑time features and scalable architectures
+
+<div align="center">
+
+### �️ Tech Arsenal
+
+</div>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="left">
+
+### 🏢 Beauty CRM (Zibox CRM)
+**Full‑Stack Development** • Admin panel (frontend) + complete backend/API  
+🔗 **Live**: [ziboxcrm.ir](https://ziboxcrm.ir/)  
+⚡ **Tech**: Laravel 12, MySQL, JWT/Sanctum, RBAC, TailwindCSS, Alpine.js  
+🔧 **Features**: 200+ APIs, 100+ migrations, queues/caching, ZarinPal, Kavenegar SMS
+
+### 🎬 ShadVOD / Imamovies
+**Streaming Platform** • Netflix‑like VOD with Watch Party & real‑time chat  
+🔗 **Live**: [shadmovie.ir](https://shadmovie.ir/) • [imamovies.ir](https://imamovies.ir/)  
+⚡ **Tech**: Laravel 11, React, Pusher WebSocket, AWS S3, Bootstrap 5  
+🔧 **Features**: Multi‑quality video, secure URLs, real‑time sync, subscriptions
+
+</div>
+
+
+## � GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimainjast&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimainjast&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimainjast&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Let's Connect & Build Something Amazing!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/<ADD-LINKEDIN-HANDLE>)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:nimainjasta@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](<ADD-PORTFOLIO-LINK>)
+
+</div>
 
